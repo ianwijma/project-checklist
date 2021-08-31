@@ -29,12 +29,21 @@ Here we start
 
 ### Post development
 
-- Are all tasks done 
+- Are all tasks done according to spec?
 
 ## Deployment
 
 ### Pre deployment
 
+- What is needed to deploy a project
+- How much time is this going to code
+
+### Deployment
+
+- Deploy according to spec
+
 ## Post project 
 
 ### Assessment
+
+- Is the customer satisfied with the end results and is there any feedback?
